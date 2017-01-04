@@ -1,7 +1,7 @@
 driebit/node-gulp
 =================
 
-Run a [Gulp](http://gulpjs.com/) task in a Docker container.
+Run a [Gulp](http://gulpjs.com/) task in an Alpine-based Docker container.
 
 Usage
 -----
