@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ -f ./bower.json ]; then
     bower install --allow-root
